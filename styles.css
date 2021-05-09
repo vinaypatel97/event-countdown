@@ -1,0 +1,12 @@
+.section {
+    display: flex;
+}
+
+.section>div {
+    margin: 20px;
+}
+
+.section>div>div {
+    font-size: 30px;
+    font-weight: 600;
+}
