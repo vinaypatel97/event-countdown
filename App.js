@@ -1,4 +1,7 @@
 const countDown = () => {
+
+    // Count Down Timer
+
     const targetDate = new Date("May 8, 2022 00:00:00").getTime();
     const today = new Date().getTime();
 
